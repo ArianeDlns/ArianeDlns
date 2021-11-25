@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋 I am Ariane 
+[![Linkedin Badge](https://img.shields.io/badge/-ArianeDlns-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArianeDlns/)](https://www.linkedin.com/in/ariane-dalens/)
+
+- 🔭 I’m currently in my final year @CentraleSupelec, pursuing a Master's Degree in Machine Learning - Paris Saclay University.
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arianedlns&show_icons=true&count_private=true&theme=gotham" alt="arianedlns" />
 
 <!--
 **ArianeDlns/ArianeDlns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
