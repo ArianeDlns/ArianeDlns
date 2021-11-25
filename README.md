@@ -1,5 +1,6 @@
 ### Hi 👋 I am Ariane 
 [![Linkedin Badge](https://img.shields.io/badge/-ArianeDlns-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArianeDlns/)](https://www.linkedin.com/in/ariane-dalens/)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 - 🔭 I’m currently in my final year @CentraleSupelec, pursuing a Master's Degree in Machine Learning - Paris Saclay University.
 
