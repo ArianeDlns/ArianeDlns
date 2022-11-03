@@ -7,6 +7,9 @@
 - 💻 I’m currently working as a Data Scientist in Paris
 - 📫 Reach me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-ArianeDlns-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArianeDlns/)](https://www.linkedin.com/in/ariane-dalens/)
 
+
+- 📸 [Photography portfolio](https://arianedlns.fr/portfolio/)
+- 🖥️ [Coding portfolio](https://arianedlns.github.io/portfolio/)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arianedlns&show_icons=true&count_private=true&theme=gotham" alt="arianedlns" />
 
 <!--
