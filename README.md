@@ -2,9 +2,9 @@
 
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Linkedin Badge](https://img.shields.io/badge/-ArianeDlns-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArianeDlns/)](https://www.linkedin.com/in/ariane-dalens/)
 
-- 🔭 Graduated from CentraleSupelec with a Master's degree in Machine Learning - Paris Saclay University.
-- 💼 Graduated from ESSEC Business School with a Master's degree in Management - Paris | Singapore
-- 💻 I’m currently working as a Data Scientist in Paris
+- 🔭 Graduated from CentraleSupelec with a Master's degree in Artificial Intelligence - Paris Saclay University
+- 💼 Graduated from ESSEC Business School with a Master's degree in Business Management - Paris | Singapore
+- 💻 Currently working as a Data Scientist in Paris
 
 <p align="center">
  📸 <a href="https://arianedlns.fr/portfolio/">Photography portfolio</a> | 🖥️ <a href="https://arianedlns.github.io/portfolio/">Coding portfolio</a> 
